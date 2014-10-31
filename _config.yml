@@ -2,7 +2,15 @@
 
 title:            Bright Inventions blog
 locale:           en_US
-avatar:           http://brightinventions.pl/img/logo2-bbd0415e96ee41bf17af3af4cb7e404c.png
+avatar:           /images/logo.png
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image:
+        feature: sample-image-1.jpg
 
 # Jekyll configuration
 
@@ -28,16 +36,16 @@ owner:
   name: Bright Inventions
   bio: "crafting mobile apps with passion"
   email: info@brightinventions.pl
-  disqus-shortname: 
+  disqus-shortname:
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: bright
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
