@@ -39,6 +39,10 @@
       {% else %}
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
+
+      {% if page.tags %}
+        <h4 class="tags"><i class="fa fa-tags"></i> {{ page.tags | join: ", " }}</h4>
+      {% endif %}
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
       {{ content }}
