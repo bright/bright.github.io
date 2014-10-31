@@ -9,3 +9,13 @@ adam:
   twitter: NOtherDev
   github: NOtherDev
   stackoverflow: 142827/notherdev
+
+piotr:
+  name: Piotr Mionskowski
+  web: http://miensol.pl
+  email: piotr.mionskowski@brightinventions.pl
+  bio: "TDD fan eager to learn new things"
+  avatar: http://www.gravatar.com/avatar/57bc3e08faeb981ddc81abd1d25c3bf1?s=200
+  twitter: miensol
+  github: miensol
+  stackoverflow: 155213/miensol
