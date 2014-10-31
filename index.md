@@ -1,9 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Bright Inventions blog - We’re a studio in Poland with a team of great developers who build first-rate mobile apps."
+tags: [bright inventions, blog, mobile apps, iOS, android]
 image:
   feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

@@ -5,18 +5,17 @@ body {
 }
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 1em;
+	padding: 1em 0;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
 }
 .site-name {
-	@include grid(12,10);
+	@include grid(12,4);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
-	float: none;
+	float: left;
 	display: block;
 	@include font-rem(24);
 	@media #{$small} {
@@ -29,28 +28,47 @@ body {
 		@include grid(12,1.5);
 		@include prefix(12,2);
 	}
+
+    img {
+      height: 60px;
+    }
 }
 .top-navigation {
-	@include grid(12,10);
+	@include grid(12,4);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
-	float: none;
+	margin-top: 1em;
+	float: right;
 	display: block;
+
+    ul {
+      margin: 1em 0 0 0;
+      padding: 0;
+      clear: both;
+      list-style-type: none;
+    }
+
+    .nav {
+      text-align: right;
+    }
+
 	@media #{$small} {
 		@include grid(12,9);
 		@include prefix(12,0);
 		@include suffix(12,0);
+
+        .nav {
+          text-align: left;
+        }
+
+        ul {
+          margin: 0 0 0 1em;
+        }
 	}
 	@media #{$x-large} {
 		@include grid(12,8);
 	}
-	ul {
-		margin: 0;
-		padding: 0;
-		clear: both;
-		list-style-type: none;
-	}
+
 	li {
 		display: block;
 		list-style-type: none;

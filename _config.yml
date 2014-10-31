@@ -1,9 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Bright Inventions blog
 locale:           en_US
-url:              http://localhost:4000
-
+avatar:           http://brightinventions.pl/img/logo2-bbd0415e96ee41bf17af3af4cb7e404c.png
 
 # Jekyll configuration
 
@@ -26,10 +25,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: Bright Inventions
+  bio: "crafting mobile apps with passion"
+  email: info@brightinventions.pl
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,7 +38,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: bright
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

@@ -1,13 +1,7 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: About Us
+  url: http://brightinventions.pl
 
-- title: Sample Posts
+- title: All Posts
   url: /posts/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
