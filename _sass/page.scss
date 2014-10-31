@@ -84,7 +84,7 @@ body {
 			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
-		a { 
+		a {
 			display: block;
 			padding: 10px 0;
 			decoration: none;
@@ -169,11 +169,11 @@ $button-size: 1.5rem;
 	}
 }
 // Style the toggle menu link and hide it
-.nav .navtoogle {	
+.nav .navtoogle {
 	@include font-rem(18);
 	font-weight: normal;
 	background-color: $black;
-	color: $white;	
+	color: $white;
 	border: none;
 	cursor: pointer;
 	@media #{$small} {
@@ -210,7 +210,7 @@ $button-size: 1.5rem;
 	}
 }
 // Displaying the menu when the user has clicked on the button
-.js .nav .active + ul {		
+.js .nav .active + ul {
 	max-height: 30em;
 	overflow: hidden;
 	-webkit-transition: max-height .4s;
@@ -319,12 +319,10 @@ $button-size: 1.5rem;
 		-ms-interpolation-mode: bicubic;
 	}
 	.headline-wrap {
-		position: absolute;
-		bottom: 25px;
+		padding-bottom: 1em;
 		@include prefix(12,1);
 		@media #{$small} {
-			left: 25%;
-			margin-left: 0;
+			margin-left: 25%;
 		}
 		@media #{$x-large} {
 			@include prefix(12,1);
@@ -333,8 +331,33 @@ $button-size: 1.5rem;
 			color: $white;
 			@include text-shadow(0 1px 2px rgba(0,0,0,.25));
 		}
+		.tags {
+			margin-bottom: 0;
+			padding-bottom: 0.3rem;
+			color: darken($white, 10%);
+			opacity: 0.6;
+		}
+		a {
+			color: darken($white, 7%);
+		}
+
+		a:hover {
+			color: $white;
+		}
 	}
 }
+.jumbotron {
+		min-height: 4em;
+}
+.jumbotron-bright {
+	background-image: -webkit-linear-gradient(top, #f17e00, #dd2a1b);
+	background-image: -moz-linear-gradient(top, #f17e00, #dd2a1b);
+	background-image: -ms-linear-gradient(top, #f17e00, #dd2a1b);
+	background-image: -o-linear-gradient(top, #f17e00, #dd2a1b);
+	background-image: linear-gradient(top, #f17e00, #dd2a1b);
+	background-color: #dd2a1b;
+}
+
 .byline {
 	clear: both;
 	font-size: 80%;
@@ -533,7 +556,7 @@ $button-size: 1.5rem;
 	margin: 1em 0;
 	li {
 		display: inline;
-		a { 
+		a {
 			border-bottom: 0 solid transparent;
 			&:hover {
 				border-bottom: 0 solid transparent;
@@ -562,12 +585,12 @@ $button-size: 1.5rem;
 	a.jp-current {
 		font-weight: bold;
 	}
-	a.jp-disabled, 
+	a.jp-disabled,
 	a.jp-disabled:hover {
 	}
-	a.jp-current, 
-	a.jp-current:hover,  
-	a.jp-disabled, 
+	a.jp-current,
+	a.jp-current:hover,
+	a.jp-disabled,
 	a.jp-disabled:hover {
 		cursor: default;
 		background: none;
@@ -588,7 +611,7 @@ $button-size: 1.5rem;
 	h4,
 	h5,
 	h6,
-	span { 
+	span {
 		@include font-rem(14);
 	}
 	footer {
@@ -623,7 +646,7 @@ $button-size: 1.5rem;
 		@include suffix(12,3.5);
 	}
 	h4 {
-		
+
 		text-transform: uppercase;
 		margin-bottom: 0;
 	}

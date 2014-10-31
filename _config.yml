@@ -10,7 +10,8 @@ defaults:
       path: ""
     values:
       image:
-        feature: sample-image-1.jpg
+        feature:
+        feature_class: jumbotron-bright
 
 # Jekyll configuration
 
