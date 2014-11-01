@@ -325,7 +325,7 @@ $button-size: 1.5rem;
 			margin-left: 25%;
 		}
 		@media #{$x-large} {
-			@include prefix(12,1);
+			@include prefix(12,4);
 		}
 		h1, h2 {
 			color: $white;
