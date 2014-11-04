@@ -1,7 +1,7 @@
 ---
 layout: post
-excerpt: "ListViewWithSectionsAdapter for android ListView, simple way to implement list view with sections."
-title: ListViewWithSectionsAdapter for android ListView, simple way to implement list view with sections.
+excerpt: "ListViewWithSectionsAdapter for Android ListView, simple way to implement list view with sections."
+title: ListViewWithSectionsAdapter for Android ListView, simple way to implement list view with sections.
 modified: 2014-11-04
 tags: [android]
 comments: true
