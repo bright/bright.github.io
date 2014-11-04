@@ -321,11 +321,15 @@ $button-size: 1.5rem;
 	.headline-wrap {
 		padding-bottom: 1em;
 		@include prefix(12,1);
+		@include suffix(12,1);
+
 		@media #{$small} {
 			margin-left: 25%;
+			margin-right: 25%;
 		}
 		@media #{$x-large} {
 			@include prefix(12,4);
+			@include suffix(24,7);
 		}
 		h1, h2 {
 			color: $white;
