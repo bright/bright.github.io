@@ -3,7 +3,7 @@ layout: post
 excerpt: "I’m experimenting with ShareJS library, which is intended to allow live concurrent editing like in Google Docs. The demo on their website seems incredibly easy, even though later on the page they are so cruel: “ShareJS is mostly working, but it’s still a bit shit.”. I wouldn’t be so harsh as I was able to have it up and running in less than few hours. But the fact is it wasn’t as easy as it seemed."
 title: ShareJS 0.7.3 working example
 modified: 2014-10-30
-tags: [sharejs, nodejs]
+tags: [sharejs, nodejs, javascript]
 comments: true
 author: adam
 ---
@@ -42,11 +42,11 @@ It tries to call `sharejs.open` function, which yields “`TypeError: undefined 
 var ws = new WebSocket('ws://127.0.0.1:7007');
 var share = new sharejs.Connection(ws);
 var doc = share.get('blag', 'doc');
- 
+
 if (!doc.type) {
     doc.create('text');
 }
-        
+
 doc.whenReady(function () {
     var elem = document.getElementById('pad');
     doc.attachTextarea(elem);
@@ -60,12 +60,12 @@ var ws = new WebSocket('ws://127.0.0.1:7007');
 var share = new sharejs.Connection(ws);
 var doc = share.get('blag', 'doc');
 doc.subscribe();
- 
+
 doc.whenReady(function () {
     if (!doc.type) {
         doc.create('text');
     }
- 
+
     var elem = document.getElementById('pad');
     doc.attachTextarea(elem);
 });
