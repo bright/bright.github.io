@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "One thing that I found missing in ShareJS library was the possibility to attach live concurrent editing to HTML &lt;select&gt; element. Out of the box it works only with text fields - &lt;input&gt; and &lt;textarea&gt;. Here is the workaround."
-title: Attaching ShareJS to &lt;select&gt;
+title: Attaching ShareJS to &lt;select&gt; element
 modified: 2014-10-30
 tags: [sharejs, javascript]
 comments: true
@@ -29,7 +29,7 @@ var elem = {
 };
 {% endhighlight %}
 
-ShareJS also do not attach itself to `change` event, typical for `<select>` element - it specializes in keyboard events. So I have to attach on my own and rely the event to the underlying ShareJS implementation, faking the event of type that is handled by the library - I've chosen the mysterious `textInput` event.
+ShareJS also doesn't attach itself to `change` event, typical for `<select>` element - it specializes in keyboard events. So I have to attach on my own and rely the event to the underlying ShareJS implementation, faking the event of type that is handled by the library - I've chosen the mysterious `textInput` event.
 
 Here is the full code as Gist: [ShareJS attachSelect](https://gist.github.com/NOtherDev/9e713cfd68d6da9a174a). It adds a new function to the `Doc` prototype, allowing calling it in the same way we're calling ShareJS native `attachTextarea`:  
 
