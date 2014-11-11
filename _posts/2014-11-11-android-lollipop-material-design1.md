@@ -21,7 +21,7 @@ It's looks like this:<br /><br />
 ![fourth screenshot]({{site.url}}/images/palette-example4.png)
 
 Let's code.<br />
-All dependences we need:
+All dependencies we need:
 {% highlight groovy %}
 dependencies {
     compile 'com.android.support:appcompat-v7:21.0.0'
