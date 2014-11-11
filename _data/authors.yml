@@ -24,7 +24,7 @@ daniel:
   name: Daniel Makurat
   email: daniel.makurat@brightinventions.pl
   github: danielmakurat
-  
+
 mateusz:
   name: Mateusz Klimczak
   email: mateusz.klimczak@brightinventions.pl
@@ -41,3 +41,10 @@ michal:
   twitter: mgamer
   github: mgamer
   stackoverflow: 59666/mgamer
+
+mateuszklimek:
+  name: Mateusz Klimek
+  email: mateusz.klimek@brightinventions.pl
+  bio: "Software Engineer @ Bright Inventions"
+  avatar: http://www.gravatar.com/avatar/0463b7a46ed49025082a795ac2f67f49.png?s=200
+  github: mklimek
