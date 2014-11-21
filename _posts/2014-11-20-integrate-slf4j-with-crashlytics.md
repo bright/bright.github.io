@@ -48,7 +48,6 @@ public class CrashlyticsLoggerHandler extends Handler {
   public void close() {}
   @Override
   public void flush() {}
-  }
 }
 ```
 
