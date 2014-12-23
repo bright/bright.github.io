@@ -7,7 +7,7 @@ comments: true
 author: piotr
 ---
 
-On Thursday 18th December 2014 I gave a small presentation about [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) in the local [Cocoaheads Tricity](https://www.facebook.com/CocoaHeadsTricity) group. [Cocoaheads](http://cocoaheads.org/) is a group of passionate iOS and MacOS X developers willing to share their knowledge and learn.
+On Thursday 18th December 2014 I gave a small presentation about [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) to the local [Cocoaheads Tricity](https://www.facebook.com/CocoaHeadsTricity) group. [Cocoaheads](http://cocoaheads.org/) is a group of passionate iOS and MacOS X developers willing to share their knowledge and learn.
 
 If you've never heard of ReactiveCocoa the presentation might plant a seed of interest:
 
