@@ -1,8 +1,8 @@
 ---
 layout: post
 excerpt: "VideoView is the most straightforward way to show video content in layout. <br />
-It took a few lines of code to setup and show, for example, mp4 file. <br />
-It's fine when you dosen't care about UX too much, but when you do, things are going to be annoying."
+It took a few lines of code to setup and show for example mp4 file. <br />
+It's fine when you don't care about UX too much, but when you do, things are going to be annoying."
 title: How to avoid flickering and black screen issues when using VideoView?
 modified: 2015-01-11
 tags: [android, videoview]
@@ -11,7 +11,7 @@ author: mateuszklimek
 ---
 
 VideoView is the most straightforward way to show video content in layout. <br />
-It took a few lines of code to setup and show, for example, mp4 file. <br />
+It took a few lines of code to setup and show for example mp4 file. <br />
 It's fine when you don't care about UX too much, but when you do, things are going to be annoying.
 When you tested app for different cases like: change device orientation, swipe the view, lock screen or go to home screen and back to the app, you probably know what I'm talking about. <br />
 If you don't, take a look at: <br /><br />
@@ -73,7 +73,7 @@ public class SampleActivity extends Activity {
   }
   {% endhighlight %}
 
-If you want to execute action for particular implementation eg. `seekTo()` from `VideoView` you can call it like that:
+If you want to execute method for particular implementation eg. `seekTo()` from `VideoView` you can call it like that:
 {% highlight java %}
   frameVideoView.asVideoView().seekTo(x);
 {% endhighlight %}
