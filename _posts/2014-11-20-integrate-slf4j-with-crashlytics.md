@@ -62,4 +62,4 @@ LoggerConfiguration.configuration()
 From now on all log messages will go through Crashlytics API and couple of last log entries will be available next to crash report details in dashboard.
 
 
-*This article is cross-posted with [my personal blog](https://miensol.pl)*
+*This article is cross-posted with [my personal blog](http://miensol.pl)*
