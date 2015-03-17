@@ -8,7 +8,7 @@ comments: true
 author: mateuszklimek
 ---
 # Question
-How make iOS Simulator get to work with Right-To-Left languages when it's stared from AppCode?
+How to make iOS Simulator work with Right-To-Left languages when it's started from AppCode?
 # Answer
 Paste these two parameters:
 {% highlight xml %}
@@ -19,8 +19,8 @@ into `program arguments' in Run/Debug Configuration.
 <br/><br/>
 ![appcode-rtl-config]({{site.url}}/images/appcode-rtl-config.png)
 <br/><br/>
-Keep in mind if you kill app and start it again in simulator, parameters **don't be** included for new process. Thus app will start in common LTR mode.
-The only way to restart app in RTL is run app from AppCode again.
+Keep in mind that if you kill the app and start it again in simulator, parameters **wouldn't be** included for the new process. Thus the app will start in the common LTR mode.
+The only way to restart the app in RTL is to run the app from AppCode again.
 
 
 
