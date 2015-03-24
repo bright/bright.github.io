@@ -3,7 +3,7 @@ layout: post
 excerpt: "Recently I had an opportunity to dive into an iOS development and while I enjoy it, I miss a lot of things from the web development world. I was looking for an iOS begginer guide targeted specifically to the web developers like me, but I haven't found any. Time to change this. In the first part I'll have a look at the basic building blocks of the view layer in iOS and compare it to what HTML offers."
 title: "iOS layouts for web developers #1 - basic building blocks"
 modified: 2015-02-27
-tags: [ios]
+tags: [iOS]
 comments: true
 author: adam
 ---

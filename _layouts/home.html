@@ -27,13 +27,12 @@
         <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
       {% else %}
         <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        {% if post.tags %}
-            <h4 class="tags"><i class="fa fa-tags"></i> {{ post.tags | join: ", " }}</h4>
-        {% endif %}
+        {% include _tags.html %}
         <p>{{ post.excerpt | strip_html }}</p>
       {% endif %}
     </article>
     {% endfor %}
+    <div class="all-posts"><a href="/posts/">All posts</a></div>
   </div><!-- /#index -->
 </div><!-- /#main -->
 
