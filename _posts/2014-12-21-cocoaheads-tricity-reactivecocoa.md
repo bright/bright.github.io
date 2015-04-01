@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Reactive Cocoa presented on Cocoaheads Tricity"
-date: 2014-12-21 11:00:00
-tags: [ios, ReactiveCocoa]
+title: "Reactive Cocoa presented on CocoaHeads Tricity"
+date: 2014-12-21
+tags: [iOS, ReactiveCocoa, CocoaHeads]
 comments: true
 author: piotr
 ---
