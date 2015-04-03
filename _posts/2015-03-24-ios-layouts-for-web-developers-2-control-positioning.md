@@ -74,4 +74,4 @@ Unfortunately, Adaptive UI is far less flexible than CSS media queries. We have 
 
 > CSS media queries based on screen size <—> partially covered by Adaptive UI trait collection
 
-Next time in the series - more about CSS equivalents in iOS (or lack of such).
+Next time in the series - [more about CSS equivalents in iOS (or lack of such)](/ios-layouts-for-web-developers-3-managing-appearance).
