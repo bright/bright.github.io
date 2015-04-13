@@ -63,7 +63,7 @@ task copyResDirectoryToClasses(type: Copy){
 
 assembleDebug.dependsOn(copyResDirectoryToClasses)
 {% endhighlight %}
- Run unit test by <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F10</kbd> on whole class or specyfic test method.<br/>
+ Run unit test by <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F10</kbd> on whole class or specific test method.<br/>
  Now you should be able to get the `File` reference to the resource.
 
 
