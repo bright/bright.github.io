@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt: "Since version 1.1 of Android Gradle Plugin we can run unit test on a local JVM on our development machine. In this article I'll demonstrate how to make local resources available in unit test case."
-title: "Using file resources in Android POJO unit test"
+title: "Using the file resources in Android POJO unit test"
 modified: 2015-04-13
 tags: [android, unit-testing]
 comments: true
@@ -44,10 +44,12 @@ So it's going to be problem with build tool which ignores the resource.
 
 Let's play with *gradle* a bit to make it work.
 
-1. Ensure you're using at least [Android Gradle Plugin version 1.1](http://tools.android.com/tech-docs/unit-testing-support). Follow the link to set up Android Studio correctly. 
-2. Create test directory. Put unit test classes in java directory and put your resources file in res directory. Android Studio should mark them like follow: 
- ![test-directory-structure]({{site.url}}/images/test-directory-structure.png)
-3. Create `gradle` task to copy resources into classes directory to make them visible for classloader `getResources()` method:
+ 1. Ensure you're using at least [Android Gradle Plugin version 1.1](http://tools.android.com/tech-docs/unit-testing-support). Follow the link to set up Android Studio correctly. 
+ 2. Create test directory. Put unit test classes in java directory and put your resources file in res directory. Android Studio should mark them like follow: 
+
+ 	![test-directory-structure]({{site.url}}/images/test-directory-structure.png)
+
+ 3. Create `gradle` task to copy resources into classes directory to make them visible for classloader `getResources()` method:
 {% highlight groovy %}
 
 android{
