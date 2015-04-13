@@ -20,7 +20,7 @@ After a while I prepared simple test which was ready to read json from the file:
  @Test
 public void parserShouldHasInvalidStateIfResponseHasMissingField() throws Exception {
 	Parser parser = new Parser();
-	File file = Utils.getFileFromPath("response_with_missing_field.json");
+	File file = Utils.getFileFromPath("res/response_with_missing_field.json");
 	String json = Utils.readFileAsString(file);
 	parser.parse(json);
 	assertThat(parser.getState(), equalTo(State.INVALID));
