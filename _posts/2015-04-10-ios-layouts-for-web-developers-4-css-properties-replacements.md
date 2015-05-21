@@ -132,4 +132,5 @@ Some of the “fancy” text effects like text shadows or strokes are available 
 
 That’s all I found useful and worth mentioning here, but of course the full list of styling-related features of UIKit, and especially when going down to CALayers is vast, likewise the full list of features in CSS, so I don’t think it’s even feasible to cover everything here.
 
-Next time I’ll probably conclude the series with the post about events handling.
+
+Next time I’ll conclude the series with [the post about events handling](/ios-layouts-for-web-developers-5-events-handling/).
