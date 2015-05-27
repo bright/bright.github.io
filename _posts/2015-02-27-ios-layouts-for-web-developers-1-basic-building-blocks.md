@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: "Recently I had an opportunity to dive into an iOS development and while I enjoy it, I miss a lot of things from the web development world. I was looking for an iOS begginer guide targeted specifically to the web developers like me, but I haven't found any. Time to change this. In the first part I'll have a look at the basic building blocks of the view layer in iOS and compare it to what HTML offers."
+excerpt: "In the first part of iOS layouts for web developers series I'll have a look at the basic building blocks of the view layer in iOS and compare it to what HTML offers. First, we need to shift our mindset a bit and accept the fact we need to give up some control over our views to the iOS."
 title: "iOS layouts for web developers #1 - basic building blocks"
 modified: 2015-02-27
 tags: [iOS]
@@ -8,11 +8,7 @@ comments: true
 author: adam
 ---
 
-Almost all of my past development experience is centered around the web. Just recently I had an opportunity to dive into an iOS development and while I enjoy it, I miss a lot of things from the web development world. I've quickly discovered that applying the techniques and approaches directly from the web is often not possible. Sometimes I had to switch to the different mindset than the one I'm used to. To make things easier, I was looking for an iOS begginer guide targeted specifically to the web developers like me, but I haven't found any. This is how the idea for the series of blog posts I'm starting right now was born.
-
-My idea is to go through multiple layout-specific aspects of iOS programming and compare it to the concepts I know from the web. I don't intend to replace Apple's documentation nor write an extensive guide to iOS - there are better resources for that. I also expect that the reader is already able to use Objective C or Swift at the syntax level and has the basic knowledge of how iOS generally works. What I hope to create is more a translation table between the similar concepts on both platforms. As such, and also due my limited iOS experience, it will for sure have some deficiencies and simplifications - I treat this write-up as a learning opportunity, too. Let's give it a try!
-
-In the first part I'll have a look at the basic building blocks of the view layer in iOS and compare it to what HTML offers.
+In the first part of [**iOS layouts for web developers** series](/ios-layouts-for-web-developers/) I'll have a look at the basic building blocks of the view layer in iOS and compare it to what HTML offers. First, we need to shift our mindset a bit and accept the fact we need to give up some control (pun intended) over our views to the iOS.
 
 Elements vs. controls
 ----

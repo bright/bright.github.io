@@ -8,7 +8,7 @@ comments: true
 author: adam
 ---
 
-This is the third part of the “iOS layout for web developers” series. The [first part was about the controls](/ios-layouts-for-web-developers-1-basic-building-blocks/), the [second about its positioning](/ios-layouts-for-web-developers-2-control-positioning/). Now I’m going to tackle how to approach managing the controls appearance - something that we have CSS for in the web.
+This is the third part of the [**iOS layouts for web developers** series](/ios-layouts-for-web-developers/). The [first part was about the controls](/ios-layouts-for-web-developers-1-basic-building-blocks/), the [second about its positioning](/ios-layouts-for-web-developers-2-control-positioning/). Now I’m going to tackle how to approach managing the controls appearance - something that we have CSS for in the web.
 
 CSS equivalent?
 ----

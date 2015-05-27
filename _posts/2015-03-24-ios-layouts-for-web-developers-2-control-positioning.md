@@ -8,7 +8,7 @@ comments: true
 author: adam
 ---
 
-In the [first part](/ios-layouts-for-web-developers-1-basic-building-blocks/) of the series I’ve discussed controls as the basic building blocks that comprises the layout in iOS world and how that compares to HTML. I haven’t tackled anything about how and where these controls are drawn on the screen. The matter is complex enough so that here is the separate post only about it.
+In the [first part](/ios-layouts-for-web-developers-1-basic-building-blocks/) of the [**iOS layouts for web developers** series](/ios-layouts-for-web-developers/) I’ve discussed controls as the basic building blocks that comprises the layout in iOS world and how that compares to HTML. I haven’t tackled anything about how and where these controls are drawn on the screen. The matter is complex enough so that here is the separate post only about it.
 
 Let’s start with restating the acknowledgement that my overall goal here is trying to find best analogies to the web development world, not creating an ultimate guide to how those things should generally be done in iOS. Some approaches that are natural in HTML might be considered bad practice or at least not idiomatic in iOS.
 

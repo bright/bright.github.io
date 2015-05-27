@@ -8,7 +8,7 @@ comments: true
 author: adam
 ---
 
-Time to finish the iOS layouts for web developers series with the post about events. Earlier in the series you might read about [the controls](/ios-layouts-for-web-developers-1-basic-building-blocks/), [control positioning](/ios-layouts-for-web-developers-2-control-positioning/), [managing the appearance](/ios-layouts-for-web-developers-3-managing-appearance/) and [CSS properties replacements](/ios-layouts-for-web-developers-4-css-properties-replacements/).
+Time to finish the [**iOS layouts for web developers** series](/ios-layouts-for-web-developers/) with the post about events. Earlier in the series you might read about [the controls](/ios-layouts-for-web-developers-1-basic-building-blocks/), [control positioning](/ios-layouts-for-web-developers-2-control-positioning/), [managing the appearance](/ios-layouts-for-web-developers-3-managing-appearance/) and [CSS properties replacements](/ios-layouts-for-web-developers-4-css-properties-replacements/).
 
 Touchy state of the mobile touch events
 ----
