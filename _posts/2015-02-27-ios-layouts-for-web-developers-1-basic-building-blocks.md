@@ -42,9 +42,9 @@ Unfortunately, to emulate a real grid using `UITableView`, we’d need to nest c
 
 > `<thead>`, `<tfoot>` <—> table header & table footer in `UITableView`
 
-There is also an [`UICollectionView`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionView_class/) thing that is supposed to display a collection of items in more flexible manner - in the most cases it forms a grid of customizable [`UICollectionViewCell`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionViewCell_class/)s. It behaves like a set of elements with `display: float` - it tries to put elements next to each other and wraps down when there’s no more space available. It’s still not real tabular data equivalent, but at least we’re not constrained to a single column layout.
+There is also an [`UICollectionView`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionView_class/) thing that is supposed to display a collection of items in more flexible manner - in the most cases it forms a grid of customizable [`UICollectionViewCell`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionViewCell_class/)s. It behaves like a set of elements with CSS float - it tries to put elements next to each other and wraps down when there’s no more space available. It’s still not real tabular data equivalent, but at least we’re not constrained to a single column layout.
 
-> set of elements with `display: float` <—> `UICollectionView` and its `UICollectionViewCell`s
+> set of elements with `float` CSS property <—> `UICollectionView` and its `UICollectionViewCell`s
 
 So what is the real equivalent of HTML tables? There’s nothing available out of the box, you need to resort to [specialized controls available](http://cocoapods.org/?q=grid). The separate broad topic here is how to present the tabular data effectively on the phone screen. I guess there are valid usability-related reasons to avoid tables at all.
 
