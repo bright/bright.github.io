@@ -23,4 +23,4 @@ Here we will be adding a file which is added to our project. In order to do this
 <script src="https://gist.github.com/Eluss/538b5cebd23e7659187b.js"></script>
 
 Tip: Once you call a play method, you can keep adding the files to queue and they will automatically start.
-This article is cross-posted with my [my personal blog](http://eluss.github.io/Savings-and-loading-data-to-iOS-device/)
+This article is cross-posted with my [my personal blog](http://eluss.github.io/)
