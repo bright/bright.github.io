@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quickly access iOS Simulator documents directory for currently running app
+title: Quickly access Documents Directory for the iOS Simulator
 tags: iOS
 comments: true
 author: michal
