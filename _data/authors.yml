@@ -23,6 +23,7 @@ piotr:
 daniel:
   name: Daniel Makurat
   email: daniel.makurat@brightinventions.pl
+  bio: "building apps @ Bright Inventions"
   github: danielmakurat
 
 mateusz:
@@ -37,7 +38,7 @@ mateusz:
 michal:
   name: Michał Łukasiewicz
   email: michal.lukasiewicz@brightinventions.pl
-  bio: "running around @ Bright Inventions"
+  bio: "building apps @ Bright Inventions"
   avatar: http://www.gravatar.com/avatar/03c5aa5ff40c5d91e67720a1a4290f11.png?s=200
   twitter: mgamer
   github: mgamer
