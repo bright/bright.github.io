@@ -6,6 +6,10 @@ comments: true
 author: eliasz
 ---
 
+Have you ever felt that your app needs UI tests? Are you tired of checking behaviours of your application again and again? Consider using Calabash!
+
+What is Calabash? It is an open source framework that is constantly supported by Xamarin. Calabash will let you run your UI tests written in Cucumber on iOS and Android. Moreover, it's really easy to read for people that are not familiar with programming.
+
 If you started writing UI tests in Calabash and it isn't going as smooth as you expected, then check out this 3 tips, which helped me at the beginning.
 
 ####1. Use Calabash console!
