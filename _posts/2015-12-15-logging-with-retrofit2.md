@@ -42,7 +42,7 @@ Create `Retrofit` object like follow:
 
 	return retrofit.create(ApiClient.class);
 {% endhighlight %}
-`RetrofitAdapter` isn't exsist any longer, we have `Retrofit` class instead. <br/>
+`RetrofitAdapter` dosen't exsist any longer, we have `Retrofit` class instead. <br/>
 The big change is that [OkHttp](http://square.github.io/okhttp/) is required now and set as dependency for Retrofit.<br/>
 The instance of `OkHttpClient` is the place where you should set up logging.
 
