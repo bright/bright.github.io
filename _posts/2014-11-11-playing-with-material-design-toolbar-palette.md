@@ -105,3 +105,5 @@ Look at the screenshots, I think they look pretty well and we didn't need a grap
 See [full source code at github](https://github.com/mklimek/palette-sample).<br />
 See [Creating Apps with Material Design](https://developer.android.com/training/material/index.html).<br />
 See [Material Design specification](http://www.google.com/design/spec/material-design/introduction.html#).
+
+See this post on my [personal blog](http://mklimek.github.io/playing-with-material-design-toolbar-palette/).

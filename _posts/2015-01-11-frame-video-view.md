@@ -88,3 +88,5 @@ if(videoView.getImplType() == VIDEO_VIEW){
   <br />
   I uploaded project to [github](https://github.com/mklimek/FrameVideoView) so you can run example app and see full implementation of `FrameVideoView`. Feel free to use it as you like.
   <br />
+
+  See this post on my [personal blog](http://mklimek.github.io/frame-video-view/).

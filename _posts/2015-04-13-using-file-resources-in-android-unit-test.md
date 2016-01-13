@@ -67,5 +67,5 @@ assembleDebug.dependsOn(copyResDirectoryToClasses)
  Now you should be able to get the `File` reference to the resource.
 
 
-
+See this post on my [personal blog](http://mklimek.github.io/using-file-resources-in-android-unit-test/).
 

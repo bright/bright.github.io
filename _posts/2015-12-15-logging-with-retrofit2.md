@@ -51,6 +51,7 @@ Retrofit has a dependency to OkHttp version 2.5.0, but I've tested it with Loggi
 It should print logs similar to the old ones from Retrofit 1.x.<br />
 Hope it helps you :)
 
+See this post on my [personal blog](http://mklimek.github.io/logging-with-retrofit2/).
 
 
 
