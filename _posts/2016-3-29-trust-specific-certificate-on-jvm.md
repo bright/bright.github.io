@@ -92,7 +92,7 @@ Available as gist [here](https://gist.github.com/mklimek/f9d197362c1f2db8c1b76f7
 Version for Android to load certificate from assets is [here](https://gist.github.com/mklimek/4a344b606d96c5200334bf2f48c174d6).
 
 
-See this post on my [personal blog](http://mklimek.github.io/logging-with-retrofit2/).
+See this post on my [personal blog](https://mklimek.github.io/trust-specific-certificate-on-jvm/).
 
 
 
