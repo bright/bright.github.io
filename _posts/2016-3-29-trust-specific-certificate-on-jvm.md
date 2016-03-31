@@ -28,7 +28,7 @@ The second case: you want to use the web proxy. It's also risky to install proxy
 <script src="https://gist.github.com/mklimek/a623509f2c0a99096a4bc0bd71f7bf62.js"></script>
 
 You can easily adopt that code in any JVM language like Groovy, Kotlin, etc.<br/>
-Version for Android to load certificate from assets is [here](https://gist.github.com/mklimek/4a344b606d96c5200334bf2f48c174d6).
+On Android you can load certificate from assets. Github repo is [here](https://github.com/mklimek/ssl-utils-android).
 
 
 See this post on my [personal blog](https://mklimek.github.io/trust-specific-certificate-on-jvm/).
