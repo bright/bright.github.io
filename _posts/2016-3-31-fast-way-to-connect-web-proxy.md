@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Fast way to connect to the web proxy
+title: A fast way to connect to the web proxy
 tags: android
 comments: true
 author: mateuszklimek
 ---
 
-Configuration Android device to connect to web proxy running on development build machine is tedious.
+Configuring Android device to connect to a web proxy running on development build machine is tedious.
 You have to make the same steps over and over again on every device you want to debug *HTTP* traffic.<br/ >
 It goes like this:<br/>
 
@@ -14,10 +14,10 @@ It goes like this:<br/>
 2. Install proxy *CA* certificate on a mobile device in order to spy *HTTPS* traffic.
 3. Configure wifi connection on the mobile device to connect through the proxy (by typing it by hand).
 
-Sometimes I have to enable proxy for a moment and disable it afterward, then... repeat it a couple of times.<br/>
+Sometimes I have to enable the proxy for a moment and disable it afterward, then... repeat it a couple of times.<br/>
 Seems to be pretty good case to automate it :)
 
-I wanted to have simple switcher which allows quickly enable and disable proxy connection.<br/> 
+I wanted to have a simple switcher which allows quickly enabling or disabling proxy connection.<br/> 
 The solution I made is based on a static global variable. <br/>
 {% highlight java %}
 public class DevFeatureToggle{
@@ -25,13 +25,13 @@ public class DevFeatureToggle{
 }
 {% endhighlight %}
 
-If flag is set to `true` app connects to web proxy automatically.<br/>
+If the flag is set to `true` the app connects to web proxy automatically.<br/>
 You earned a few things here:
 
 * It's transparent for a developer. You don't care about typing IP address and port.
 * Installs *CA* certificate at runtime. You don't have to install it by hand on the device. You don't even have to have password for credential storage ;)
-* Because the device isn't directly connected, web proxy can see traffic from your app only (other apps' traffic isn't visible).
-* You can dynamically enable/disable proxy for *HTTP* client in runtime so you can pass some requests over the proxy. 
+* Because the device isn't directly connected, the web proxy can see traffic from your app only (other apps' traffic isn't visible).
+* You can dynamically enable/disable the proxy for *HTTP* client in runtime so you can pass some requests over the proxy. 
 * It's safer. You don't install proxy or any third party certificate on the system directly.
 
 <br/>
@@ -56,7 +56,7 @@ task getBuildMachineLocalIp() {
     println "build machine local ip: " + project.ext.proxy
 }
 {% endhighlight %}
-It gets local ip address of your desktop build machine and store it in `project.ext.proxy`.<br/>
+It gets local *IP* address of your desktop build machine and store it in `project.ext.proxy`.<br/>
 Remember to replace `ifconfig` command with proper `ipconfig` if your build machine is running Windows.<br/>
 You have to also ensure that `en1` is the interface used to connect to the same wifi network as Android device.
 
@@ -98,7 +98,7 @@ use client as you wish eg. with Retrofit
 */
 {% endhighlight %}
 There's simple `if` statement which enables proxy when flag is active.<br/>
-Probably, you don't want to have proxy connection for release builds so I also check build type here.<br/>
+Probably, you don't want to have the proxy connection for release builds so I also check build type here.<br/>
 The last thing is to set up *CA* certificate of the web proxy to make *HTTP* connections visible on it. <br/>
 `SslUtils` is simple helper class which I created to trust given certificate despite system settings. <br/>
 You can read about `SslUtils` in [this post](http://blog.brightinventions.pl/trust-specific-certificate-on-jvm/) and download it from [GitHub](https://github.com/mklimek/ssl-utils-android).
