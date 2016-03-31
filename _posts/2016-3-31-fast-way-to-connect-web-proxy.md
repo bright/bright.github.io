@@ -6,7 +6,7 @@ comments: true
 author: mateuszklimek
 ---
 
-Configuring Android device to connect to a web proxy running on development build machine is tedious.
+Configuring Android device to connect to the web proxy running on development build machine is tedious.
 You have to make the same steps over and over again on every device you want to debug *HTTP* traffic.<br/ >
 It goes like this:<br/>
 
@@ -17,7 +17,7 @@ It goes like this:<br/>
 Sometimes I have to enable the proxy for a moment and disable it afterward, then... repeat it a couple of times.<br/>
 Seems to be pretty good case to automate it :)
 
-I wanted to have a simple switcher which allows quickly enabling or disabling proxy connection.<br/> 
+I wanted to have a simple switcher which allows quickly enabling or disabling the proxy connection.<br/> 
 The solution I made is based on a static global variable. <br/>
 {% highlight java %}
 public class DevFeatureToggle{
@@ -25,10 +25,10 @@ public class DevFeatureToggle{
 }
 {% endhighlight %}
 
-If the flag is set to `true` the app connects to web proxy automatically.<br/>
+If the flag is set to `true` the app connects to the web proxy automatically.<br/>
 You earned a few things here:
 
-* It's transparent for a developer. You don't care about typing IP address and port.
+* It's transparent for a developer. You don't care about typing *IP* address and port.
 * Installs *CA* certificate at runtime. You don't have to install it by hand on the device. You don't even have to have password for credential storage ;)
 * Because the device isn't directly connected, the web proxy can see traffic from your app only (other apps' traffic isn't visible).
 * You can dynamically enable/disable the proxy for *HTTP* client in runtime so you can pass some requests over the proxy. 
