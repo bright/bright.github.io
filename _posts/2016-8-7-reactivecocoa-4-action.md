@@ -82,7 +82,7 @@ prodcuer.startWithSignal { (signal, _ ) in
 }
 {% endhighlight %}
 
-Reveived output: \"`1 - Number is 5`\" and \"`2 - NotEnabled`\".  
+Reveived output: "`1 - Number is 5`" and "`2 - NotEnabled`".  
 We receive this output because of the fact that when we try to execute our action second time, our first execution hasn't completed yet.
 
 Observing Action
@@ -110,7 +110,7 @@ action.values.observe { (event) in
 
 action.apply(5).startWithSignal { (_ , _ ) in }
 {% endhighlight %}
-Output: \"`Value: Next Number is 5`\" and \"`Value: COMPLETED`\"  
+Output: "`Value: Next Number is 5`" and "`Value: COMPLETED`"  
 Our values signal is of type `Signal<Output, NoError>`, so you won't get any errors here. If any terminating `Event` occurs during `Action's` execution, you'll receive `COMPLETED` event.
 
 Action's errors
@@ -133,7 +133,7 @@ action.errors.observe { (event) in
 action.apply(5).startWithSignal { (_ , _ ) in }
 {% endhighlight %}
 
-Output: \"`Error: Next Error Domain=1 Code=1 "(null)"`\" and \"`Error: COMPLETED`\"  
+Output: "`Error: Next Error Domain=1 Code=1 "(null)"`" and "`Error: COMPLETED`"  
 Errors' signal is of type `Signal<Error, NoError>` so you can focus on observing errors that occur during `Action's` execution. Keep in mind, that you don't use `observeFailed` method to observe errors, as they come with `NEXT` events. After `Action's` execution is finished, signal will receive `COMPLETED` event.
 
 Action's events
@@ -155,11 +155,11 @@ action.events.observe { (event) in
 
 action.apply(5).startWithSignal { (_ , _ ) in }
 {% endhighlight %}
-Output: \"`Event: NEXT NEXT Number is 5`\", \"`Event: NEXT FAILED Error Domain=1 Code=1 ("null")`\" and \"`Event: COMPLETED`\"  
+Output: "`Event: NEXT NEXT Number is 5`", "`Event: NEXT FAILED Error Domain=1 Code=1 ("null")`" and "`Event: COMPLETED`"  
 Third option is to observe signal of ALL `events`. This signal is of type `Signal<Event<Output, Error>, NoError>`. It means, that you will receive ALL `events` as next values, even terminating.  
-I have to say that this output is a bit confusing. What is \"`Event: NEXT NEXT Number is 5`\"? Why do we get double `NEXT` here? Let's go step by step here.
+I have to say that this output is a bit confusing. What is "`Event: NEXT NEXT Number is 5`"? Why do we get double `NEXT` here? Let's go step by step here.
 Let's look at `Action's` `SignalProducer` implementation. First thing that we send is `observer.sendNext("Number is \(number)")` It will send a `NEXT` event with a `String` value.
-Our event's observer receives `Next` events with `Next` event from our action. That's why we get \"`NEXT NEXT`\". Next event that is sent is \"`observer.sendFailed(NSError(domain: "1", code: 1, userInfo: nil))`\". As previously, our `Failed` event comes to `event's` observer as `Next` event. That is why we get "`NEXT FAILED`". After this terminating event, a `COMPLETED` event is sent to our `event's` observer indicating that execution has finished.
+Our event's observer receives `Next` events with `Next` event from our action. That's why we get "`NEXT NEXT`". Next event that is sent is "`observer.sendFailed(NSError(domain: "1", code: 1, userInfo: nil))`". As previously, our `Failed` event comes to `event's` observer as `Next` event. That is why we get "`NEXT FAILED`". After this terminating event, a `COMPLETED` event is sent to our `event's` observer indicating that execution has finished.
 
 I hope that this made `Actions` clearer to you! See you next time.
 
