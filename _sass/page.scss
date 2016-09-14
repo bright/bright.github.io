@@ -351,12 +351,12 @@ $button-size: 1.5rem;
 		min-height: 4em;
 }
 .jumbotron-bright {
-	background-image: -webkit-linear-gradient(top, #f17e00, #dd2a1b);
-	background-image: -moz-linear-gradient(top, #f17e00, #dd2a1b);
-	background-image: -ms-linear-gradient(top, #f17e00, #dd2a1b);
-	background-image: -o-linear-gradient(top, #f17e00, #dd2a1b);
-	background-image: linear-gradient(top, #f17e00, #dd2a1b);
-	background-color: #dd2a1b;
+	background-color: #ffed00;
+}
+.image-wrap .headline-wrap {
+	a, .tags {
+		color: #000;
+	}
 }
 
 .byline {
