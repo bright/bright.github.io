@@ -17,7 +17,7 @@ Note before we start:
 Simple positioning
 ---
 
-![Simple positioning](/images/simple-positioning.png){: .center-image}
+![Simple positioning](/images/simple-positioning.png)
 
 {% highlight swift%}
 
@@ -62,7 +62,7 @@ func anchorLayout() {
 Inside UIScrollView
 ---
 
-![ScrollView positioning](/images/Scroll.gif){: .center-image}
+![ScrollView positioning](/images/Scroll.gif)
 
 {% highlight swift %}
 
@@ -118,7 +118,7 @@ func anchorLayout() {
 UIScrollView with a surprise
 ---
 
-![ScrollView positioning](/images/ScrollViewSurprise.gif){: .center-image}
+![ScrollView positioning](/images/ScrollViewSurprise.gif)
 
 {% highlight swift %}
 
@@ -175,7 +175,7 @@ func anchorLayout() {
 Updating constraint's constant
 ---
 
-![ScrollView positioning](/images/move.gif){: .center-image}
+![ScrollView positioning](/images/move.gif)
 
 {% highlight swift%}
 
