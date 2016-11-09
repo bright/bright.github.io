@@ -16,7 +16,7 @@ defaults:
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    redcarpet
+markdown:    kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass
