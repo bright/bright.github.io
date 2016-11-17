@@ -5,7 +5,7 @@ adam:
   web: http://notherdev.blogspot.com
   email: adam.bar@brightinventions.pl
   bio: "Full Stack Software Enthusiast @ Bright Inventions"
-  avatar: http://www.gravatar.com/avatar/052d19c5a691bdedde664bebfb0c0ae1?s=200
+  avatar: http://brightinventions.pl/assets/adam_small.png
   twitter: NOtherDev
   github: NOtherDev
   stackoverflow: 142827/notherdev
@@ -15,7 +15,7 @@ piotr:
   web: http://miensol.pl
   email: piotr.mionskowski@brightinventions.pl
   bio: "TDD fan eager to learn new things"
-  avatar: http://www.gravatar.com/avatar/57bc3e08faeb981ddc81abd1d25c3bf1?s=200
+  avatar: http://brightinventions.pl/assets/piotr_small.png
   twitter: miensol
   github: miensol
   stackoverflow: 155213/miensol
@@ -24,13 +24,14 @@ daniel:
   name: Daniel Makurat
   email: daniel.makurat@brightinventions.pl
   bio: "building apps @ Bright Inventions"
+  avatar: http://brightinventions.pl/assets/daniel_small.png
   github: danielmakurat
 
 mateusz:
   name: Mateusz Klimczak
   email: mateusz.klimczak@brightinventions.pl
   bio: "Software Engineer @ Bright Inventions"
-  avatar: http://www.gravatar.com/avatar/146508cf303aeacc5d7a1744c038e0a7.png?s=200
+  avatar: http://brightinventions.pl/assets/mateuszklimczak_small.png
   twitter: Klimczak_M
   github: KlimczakM
   stackoverflow: 1570496/klimczak-m
@@ -39,7 +40,7 @@ michal:
   name: Michał Łukasiewicz
   email: michal.lukasiewicz@brightinventions.pl
   bio: "building apps @ Bright Inventions"
-  avatar: http://www.gravatar.com/avatar/03c5aa5ff40c5d91e67720a1a4290f11.png?s=200
+  avatar: http://brightinventions.pl/assets/michal_small.png
   twitter: mgamer
   github: mgamer
   stackoverflow: 59666/mgamer
@@ -48,7 +49,7 @@ mateuszklimek:
   name: Mateusz Klimek
   email: mateusz.klimek@brightinventions.pl
   bio: "Software Engineer @ Bright Inventions"
-  avatar: http://www.gravatar.com/avatar/0463b7a46ed49025082a795ac2f67f49.png?s=200
+  avatar: http://brightinventions.pl/assets/mateuszklimek_small.png
   github: mklimek
   stackoverflow: 870674/mklimek
 
@@ -57,7 +58,7 @@ eliasz:
   web: http://eluss.github.io/
   email: eliasz.sawicki@brightinventions.pl
   bio: "Software Engineer @ Bright Inventions"
-  avatar: https://gravatar.com/avatar/c000c81ba3431780f90bcb18001cfb55
+  avatar: http://brightinventions.pl/assets/eliasz_small.png
   github: eluss
 
 kwysocki:
@@ -65,5 +66,5 @@ kwysocki:
   web : http://k8mil.github.io
   email : kamil.wysocki@brightinventions.pl
   bio : "Software Engineer @ Bright Inventions"
-  avatar : https://github.com/k8mil/k8mil.github.io/blob/master/assets/images/profile.png?raw=true
+  avatar : http://brightinventions.pl/assets/kamil_small.png
   github : k8mil
