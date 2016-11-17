@@ -17,7 +17,7 @@ defaults:
 
 permalink:   /:categories/:title/
 markdown:    redcarpet
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
