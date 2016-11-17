@@ -16,7 +16,7 @@ defaults:
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
