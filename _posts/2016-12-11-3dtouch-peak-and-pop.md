@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Touch - Adopting shortcut items to your app.
+title: 3D Touch - Peak&Pop feature. items to your app.
 author: kwysocki
 tags : [iOS, swift, 3d touch]
 comments: true
