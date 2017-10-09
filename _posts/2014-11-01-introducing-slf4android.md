@@ -96,3 +96,5 @@ LoggerConfiguration.configuration().notifyDeveloperWithLogcatDataHandler(applica
 and receive emails with attached logcat output which comes handy during development.
 
 *This article is cross-posted with [my personal blog](https://miensol.pl)*
+
+*This post was moved to [a new location](https://brightinventions.pl/blog/introducing-slf4android/)*
