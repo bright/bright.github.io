@@ -24,3 +24,5 @@ If you are observing a signal, you can add transformations to values that you pi
 
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+*This article is available at [a new location](https://brightinventions.pl/blog/reactivecocoa-4-signal)*

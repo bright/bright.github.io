@@ -38,3 +38,6 @@ By using this command you can get your currently running iOS Simulator ID:
 <script src="https://gist.github.com/Eluss/d10d6e783bd5c17dfee3.js"></script>
 
 This article is cross-posted with my [my personal blog](http://eluss.github.io/Savings-and-loading-data-to-iOS-device/)
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/saving-and-loading-data-to-iOS-device)*

@@ -63,3 +63,6 @@ From now on all log messages will go through Crashlytics API and couple of last 
 
 
 *This article is cross-posted with [my personal blog](http://miensol.pl)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/integrate-slf4j-with-crashlytics)*

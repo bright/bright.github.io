@@ -16,3 +16,6 @@ We welcome you to join us at next [Cocoaheads Tricity](https://www.facebook.com/
 
 
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/cocoaheads-automate-your-ios-deployment)*

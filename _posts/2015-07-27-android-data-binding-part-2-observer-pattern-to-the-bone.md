@@ -27,3 +27,6 @@ If you look closer at how Android data binding is implemented you'll immediately
 Because Android data binding library takes extra steps to make sure a view model will not cause views to be retained we can detach a view model's lifecycle from that of an activity or a fragment. We now have an easy way to i.e. do a simple in-memory caching via singleton view models. More importantly, we can cross out at least one place when looking for a memory leak cause.
 
 *This article is cross-posted with [my personal blog](http://miensol.pl/android/2015/07/27/android-data-binding-part-2-observer-pattern-to-the-bone.html)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/android-data-binding-part-2-observer-pattern-to-the-bone)*

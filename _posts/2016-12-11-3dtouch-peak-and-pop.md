@@ -111,3 +111,6 @@ The whole implementation with example app you can find in my [GitHub repository]
 Thanks for reading, and see you soon!
 
 *This blog is cross posted with my [personal blog](https://wysockikamil.com/3dtouch-peak-and-pop/) *
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/3dtouch-peak-and-pop)*

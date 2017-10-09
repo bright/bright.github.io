@@ -38,3 +38,5 @@ Selected phone number will now appear in our text field ;)
 ![Filled TextField](/images/CNContactStorePost/filled_textfield.png)
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+*This article is available at [a new location](https://brightinventions.pl/blog/fetching-contacts-with-cncontactstore)*

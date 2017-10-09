@@ -134,3 +134,6 @@ That’s all I found useful and worth mentioning here, but of course the full li
 
 
 Next time I’ll conclude the series with [the post about events handling](/ios-layouts-for-web-developers-5-events-handling/).
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/ios-layouts-for-web-developers-4-css-properties-replacements)*

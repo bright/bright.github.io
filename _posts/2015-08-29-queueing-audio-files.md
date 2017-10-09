@@ -25,3 +25,6 @@ Here we will be adding a file which is added to our project. In order to do this
 Tip: Once you call a play method, you can keep adding the files to queue and they will automatically start.
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/queueing-audio-files)*

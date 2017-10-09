@@ -15,3 +15,6 @@ If you've never heard of ReactiveCocoa the presentation might plant a seed of in
 
 
 It's probably not easy to get started thinking in [FRP](http://en.wikipedia.org/wiki/Functional_reactive_programming) terms to get most out of ReactiveCocoa - but once you do, using the library is a pleasant experience.
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/cocoaheads-tricity-reactivecocoa)*

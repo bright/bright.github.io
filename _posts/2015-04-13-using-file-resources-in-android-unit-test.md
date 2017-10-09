@@ -69,3 +69,6 @@ assembleDebug.dependsOn(copyResDirectoryToClasses)
 
 See this post on my [personal blog](http://mklimek.github.io/using-file-resources-in-android-unit-test/).
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/using-file-resources-in-android-unit-test)*

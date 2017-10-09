@@ -164,3 +164,6 @@ Our event's observer receives `Next` events with `Next` event from our action. T
 I hope that this made `Actions` clearer to you! See you next time.
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/reactivecocoa-4-action)*

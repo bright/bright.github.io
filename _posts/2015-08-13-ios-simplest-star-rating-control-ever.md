@@ -115,3 +115,6 @@ And here is the result:
 
 Voilà!
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/ios-simplest-star-rating-control-ever)*

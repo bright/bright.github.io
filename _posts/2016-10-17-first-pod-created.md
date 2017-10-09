@@ -33,3 +33,6 @@ I'll be grateful if you try it ;)
 
 *This post is cross-posted with my personal [blog](http://wysockikamil.com/first-pod-created/)*
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/first-pod-created)*

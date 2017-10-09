@@ -54,3 +54,6 @@ A curious reader might notice that if we would like to change how we handle only
 Now we can implement custom actions as well as indicate a default. As usual whether to go with a simple `if` statement, a `switch` or a double dispatch depends on a use case. However it's useful to know the different ways of tackling the same problem.
 
 *This article is cross-posted with [my personal blog](http://miensol.pl/android/2015/07/12/handling-different-user-types-in-android-application.html)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/handling-different-user-types-in-android-application)*

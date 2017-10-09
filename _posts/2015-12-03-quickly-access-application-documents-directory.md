@@ -17,3 +17,6 @@ In essence it creates a symbolic link to app documents directory and puts that s
 
 
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/quickly-access-application-documents-directory)*

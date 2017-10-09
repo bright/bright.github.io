@@ -82,3 +82,6 @@ That's all. The destructuring mechanism will take care of populating `dependency
 We can easily build a dependency injection "framework" on top of that. The implementation would vary depending on how our application creates and accesses the objects, but the general idea will hold true. Isn't that neat?
 
 PS. Because the lack of direct ES6 support in the browsers, running that in a browser right now requires transpiling it down to ES5 beforehand. [Babel](https://babeljs.io/) works great for that.
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/simplistic-javascript-dependency-injection-es6-destructuring)*

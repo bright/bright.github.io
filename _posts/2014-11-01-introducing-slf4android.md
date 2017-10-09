@@ -98,3 +98,6 @@ and receive emails with attached logcat output which comes handy during developm
 *This article is cross-posted with [my personal blog](https://miensol.pl)*
 
 *This post was moved to [a new location](https://brightinventions.pl/blog/introducing-slf4android/)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/introducing-slf4android)*

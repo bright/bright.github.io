@@ -24,3 +24,6 @@ The only way to restart the app in RTL is to run the app from AppCode again.
 
 
 See this post on my [personal blog](http://mklimek.github.io/setup-appcode-to-work-with-rtl-languages/).
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/setup-appcode-to-work-with-rtl-languages)*

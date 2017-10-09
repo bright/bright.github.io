@@ -60,3 +60,6 @@ compile 'com.google.android.gms:play-services-base:6.5.87'
 
 
 *This article is cross-posted with [my personal blog](http://miensol.pl)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/google-play-services-is-no-longer-a-monolith)*

@@ -90,3 +90,6 @@ if(videoView.getImplType() == VIDEO_VIEW){
   <br />
 
   See this post on my [personal blog](http://mklimek.github.io/frame-video-view/).
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/frame-video-view)*

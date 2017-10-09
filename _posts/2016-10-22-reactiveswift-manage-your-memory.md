@@ -119,3 +119,6 @@ When I start observing for values from producer in `startWithValues` closure, I'
 There are always edge cases, that may cause a headache when choosing between `unowned` and `weak`, but as the time goes, you'll find it easier and easier to work with them! See you next time!
 
 *This article is cross-posted with my [my personal blog](https://eliaszsawicki.com/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/reactiveswift-manage-your-memory)*

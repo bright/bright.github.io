@@ -108,3 +108,6 @@ If you have any tips or thoughts about this method, let me know about it :)
 See this post on my [personal blog](https://mklimek.github.io/fast-way-to-connect-web-proxy/).
 
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/fast-way-to-connect-web-proxy)*

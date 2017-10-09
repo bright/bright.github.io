@@ -26,3 +26,6 @@ After multiple taps:
 ![Active button](/images/heartbeat-active.png)
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/heartbeat-button)*

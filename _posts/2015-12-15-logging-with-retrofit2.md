@@ -55,3 +55,6 @@ See this post on my [personal blog](http://mklimek.github.io/logging-with-retrof
 
 
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/logging-with-retrofit2)*

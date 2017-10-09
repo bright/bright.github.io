@@ -56,3 +56,6 @@ listView.setAdapter(new ListViewWithSectionsAdapter(getActivity(), dataProvider,
 That's all. 
 
 The implementation of ListViewWithSectionsAdapter you can find on github: [ListViewWithSectionsAdapter for Android ListView](https://gist.github.com/danielmakurat/2ed33ef7a3d1100149ef)
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/android-listview-with-sections)*

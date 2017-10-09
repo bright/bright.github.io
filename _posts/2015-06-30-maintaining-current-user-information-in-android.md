@@ -47,3 +47,6 @@ Notice that I've not used static methods nor variables in above example. Instead
 In the next article I'm going to show a way to deal with application behavior changing depending on user being logged in or not.
 
 *This article is cross-posted with [my personal blog](http://miensol.pl/android/2015/06/30/maintaining-current-user-information-in-android.html)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/maintaining-current-user-information-in-android)*

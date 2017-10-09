@@ -42,3 +42,6 @@ if (elem.tagName.toLowerCase() === 'select') {
 {% endhighlight %}
 
 Feel free to use the code, I hope someone finds that useful.
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/attaching-sharejs-to-select)*

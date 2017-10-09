@@ -66,3 +66,5 @@ Maybe now this concept lose some value because you don't have to care about unwr
 Hope that help you!
 <br>
 *This article is cross-posted with my [my personal blog](http://k8mil.github.io/).*
+
+*This article is available at [a new location](https://brightinventions.pl/blog/UIImageConcept)*

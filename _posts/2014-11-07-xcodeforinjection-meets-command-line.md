@@ -36,3 +36,6 @@ Just go to your project directory and execute: `injection patch` to patch projec
 
 There’s also `injection refresh` command that reverts injection changes and then patches the project again. It’s great if you run your app on a real device and don’t want to change your ip address in `main.m` every time you switch your wifi.
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/xcodeforinjection-meets-command-line)*

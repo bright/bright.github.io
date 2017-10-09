@@ -42,3 +42,6 @@ Last but not least a layout file:
 The data binding library, while still in beta, provides a nice toolset to remove the boilerplate code and improve Android code (unit) testability by extracting the logic from activity (or fragment). When used properly it can also save you from leaking resources. In the [next post]({% post_url 2015-07-27-android-data-binding-part-2-observer-pattern-to-the-bone %}) I'll explain in more detail how it happens.
 
 *This article is cross-posted with [my personal blog](http://miensol.pl/android/2015/07/20/android-data-binding-part-1-why-it-is-important.html)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/android-data-binding-part-1-why-it-is-important)*

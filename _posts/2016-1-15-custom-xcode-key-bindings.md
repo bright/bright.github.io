@@ -26,3 +26,6 @@ How to edit the `IDETextKeyBindingSet.plist` file? If you open it using a normal
 
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/custom-xcode-key-bindings)*

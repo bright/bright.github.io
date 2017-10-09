@@ -76,3 +76,6 @@ See the full Gist: [ShareJS 0.7.3 client-side code](https://gist.github.com/NOth
 *This post is cross-posted with [my personal blog](http://notherdev.blogspot.com/2014/10/sharejs-073-working-example.html).*
 
 *This post [was moved to new location](https://brightinventions.pl/blog/sharejs-073-working-example/)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/sharejs-073-working-example)*

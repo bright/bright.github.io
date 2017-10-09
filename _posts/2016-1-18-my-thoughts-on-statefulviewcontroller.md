@@ -33,3 +33,6 @@ It was really interesting code, which taught me some new thing. I hope that you 
 
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/my-thoughts-on-statefulviewcontroller)*

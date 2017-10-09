@@ -82,3 +82,6 @@ The most relevant steps are *4.* and *6.* as they clearly indicate that *target*
 Now it is obvious why a default action of an `anchor` is executed even though a `click` event did not bubble up from its child.
 
 *This article is cross-posted with [my personal blog](http://miensol.pl)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/anchor-child-element-click)*

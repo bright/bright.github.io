@@ -226,3 +226,6 @@ I'm really glad that we have `NSLayoutAnchor`. If you want to create layout in c
 What do you think of NSLayoutAnchor? How do you layout your views? Share your thoughts in comments!
 
 *This article is cross-posted with my [my personal blog](https://eliaszsawicki.com/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/purelayout-vs-anchors)*

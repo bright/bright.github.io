@@ -128,3 +128,6 @@ Moreover, thanks to the [`NSAttributedString`](https://developer.apple.com/libra
 > `<ins>`, `<del>` <—> `NSAttributedString` with `NSUnderlineStyleAttributeName`
 
 [Next time we’ll try to tackle controls positioning](/ios-layouts-for-web-developers-2-control-positioning/). Stay tuned!
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/ios-layouts-for-web-developers-1-basic-building-blocks)*

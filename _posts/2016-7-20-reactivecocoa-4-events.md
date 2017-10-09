@@ -111,3 +111,6 @@ In this case, the output will be - `1, 2, 3, completed, 2, 3, 4, interrupted`. Y
 
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/reactivecocoa-4-events)*

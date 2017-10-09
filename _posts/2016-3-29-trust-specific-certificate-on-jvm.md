@@ -35,3 +35,6 @@ See this post on my [personal blog](https://mklimek.github.io/trust-specific-cer
 
 
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/trust-specific-certificate-on-jvm)*

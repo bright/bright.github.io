@@ -17,3 +17,6 @@ If you are interested in Apple technologies we invite you to [Cocoaheads Tricity
 
 
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/cocoaheads-tricity-do-not-reinvent-the-wheel)*

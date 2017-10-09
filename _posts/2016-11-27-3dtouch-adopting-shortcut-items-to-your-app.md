@@ -175,3 +175,6 @@ The 3D Touch is powerful feature and makes iOS apps very nice to use. Interestin
 ![](https://raw.githubusercontent.com/k8mil/k8mil.github.io/master/assets/posts/3dTouch/share_app.gif)
 
 *This post is cross-posted with my personal [blog](https://wysockikamil.com/3dtouch-adopting-shortcut-items-to-your-app/)*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/3dtouch-adopting-shortcut-items-to-your-app)*

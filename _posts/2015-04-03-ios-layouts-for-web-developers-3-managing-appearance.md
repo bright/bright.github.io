@@ -158,3 +158,6 @@ On the other side there are frameworks that offer their own abstractions on view
 I believe that all of these ideas and frameworks are shaping the future of iOS layouts and are worth keeping an eye on it with the hope that someday the native offering of iOS platform in terms of managing the appearance would not be so limited as today.
 
 Next time - more on [how to achieve particular visual effects known from CSS within iOS views](/ios-layouts-for-web-developers-4-css-properties-replacements/).
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/ios-layouts-for-web-developers-3-managing-appearance)*

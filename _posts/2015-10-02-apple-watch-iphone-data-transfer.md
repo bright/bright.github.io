@@ -25,3 +25,6 @@ We can easily get message that we previouly sent from the watch. Then we create 
 It's not the only way of transfering the data, so feel encouraged to look for another solutions!
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/apple-watch-iphone-data-transfer)*

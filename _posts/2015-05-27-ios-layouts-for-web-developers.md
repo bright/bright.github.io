@@ -42,3 +42,6 @@ I’ve tried to go through multiple layout-specific aspects of iOS programming a
 
 
 That’s all I have now. As I wrote the series, I found the topic incredibly broad and I don’t even try to address and describe all the possible analogies between both platforms. Also, be aware that these posts are full of possibly broken simplifications and shortcuts - but I think to avoid that I’d need to write something 5 times longer and probably far less readable. Anyway, if you find this material useful and you see the field for improvement, please leave a comment or maybe even [a pull request](https://github.com/bright/bright.github.io/tree/master/_posts). Enjoy!
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/ios-layouts-for-web-developers)*

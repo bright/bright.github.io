@@ -210,3 +210,6 @@ Conclusion
 Looking at those examples, you can decide which style of UI you prefer. Personally, I must admit that I really like the way that SnapKit works. I won't be rewriting my existing PureLayout to SnapKit codebase, but I'll surely take SnapKit into consideration, when starting a new project.
 
 *This article is cross-posted with my [my personal blog](https://eliaszsawicki.com/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/purelayout-vs-snapkit)*

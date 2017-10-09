@@ -45,3 +45,6 @@ titleLabel.rex_hidden <~ titleValue.producer.map({ $0?.characters.count < 5 })
 You can clearly see that `Rex` makes our bindings much easier to read and understand. These are just examples, but you can find much more interesting properties like `rex_selectedSegmentIndex` for `UISegmentedControl` or `rex_on` for `UISwitch`. Moreover, `Rex` comes with some handy signal transformations, so go check it out!
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/reactivecocoa-ui-bindings-with-rex)*

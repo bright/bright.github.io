@@ -164,3 +164,6 @@ I described most common usages which I do with Charles app. To sum up I think th
 
 
 
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/improve-your-development-using-charles)*

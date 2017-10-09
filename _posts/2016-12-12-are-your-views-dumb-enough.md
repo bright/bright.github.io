@@ -86,3 +86,6 @@ I believe that this way of structuring your code can benefit you a lot and will 
 How do you solve these issues? Do you have experience in running test this way? I’d be glad if you share it in comments section below ;)
 
 *This article is cross-posted with my [my personal blog](https://eliaszsawicki.com/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/are-your-views-dumb-enough)*

@@ -24,3 +24,6 @@ I'm used to the method below, because I like the readability of it, but the `for
 My test project is  available on my [github](https://github.com/Eluss/WhisperPodTest.git) if you want to give it a look.
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/my-thoughts-on-whisper)*

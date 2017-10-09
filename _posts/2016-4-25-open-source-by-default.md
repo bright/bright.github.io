@@ -31,3 +31,6 @@ Of course sharing the whole app is a very, very rare case, but you can always sh
 So... Fear not! Open source you code. Don't be afraid that you're not good enough, don't let your projects/solutions die lonely as you forget about them. There are so many fears that hold us from publishing our work and in the end we find out that they are not valid at all.
 
 *This article is cross-posted with my [my personal blog](http://eluss.github.io/).*
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/open-source-by-default)*

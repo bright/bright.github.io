@@ -20,3 +20,6 @@ into temporary directory, run ```atos```, output results to the console and clea
 What it means for me is that I can just download respective ipa and dSYM files
 from Hockeyapp, run **desym** with memory address from the crash log and
 see the faulty line right away without manual files juggling.
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/desymbolicate-crash-reports)*

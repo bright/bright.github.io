@@ -107,3 +107,6 @@ See [Creating Apps with Material Design](https://developer.android.com/training/
 See [Material Design specification](http://www.google.com/design/spec/material-design/introduction.html#).
 
 See this post on my [personal blog](http://mklimek.github.io/playing-with-material-design-toolbar-palette/).
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/playing-with-material-design-toolbar-palette)*

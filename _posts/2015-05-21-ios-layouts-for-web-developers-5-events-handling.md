@@ -138,3 +138,6 @@ One more important trick that is often used to modify the default touch target c
 
 
 That’s all, folks. I hope anyone finds this series worth reading. I’d be grateful for any corrections, additions or just comments.
+
+
+*This article is available at [a new location](https://brightinventions.pl/blog/ios-layouts-for-web-developers-5-events-handling)*
