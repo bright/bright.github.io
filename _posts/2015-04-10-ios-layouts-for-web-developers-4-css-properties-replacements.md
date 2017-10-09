@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/ios-layouts-for-web-developers-4-css-properties-replacements
 excerpt: "In the fourth post in the iOS layouts for web developers series it's time for something more lightweight. We’ll go through various visual aspects of the controls and see how we can set it up, compared to CSS."
 title: "iOS layouts for web developers #4 - CSS properties replacements"
 date: 2015-04-10

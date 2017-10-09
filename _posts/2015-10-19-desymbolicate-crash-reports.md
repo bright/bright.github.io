@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/desymbolicate-crash-reports
 title: Desymbolicate crash reports from the command line
 tags: iOS
 comments: true

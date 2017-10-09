@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/reactivecocoa-4-signal-producer
 title: ReactiveCocoa 4 - SignalProducer
 tags: iOS
 comments: true

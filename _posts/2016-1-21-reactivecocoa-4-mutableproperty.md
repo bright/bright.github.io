@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/reactivecocoa-4-mutableproperty
 title: ReactiveCocoa 4 - MutableProperty
 tags: iOS
 comments: true

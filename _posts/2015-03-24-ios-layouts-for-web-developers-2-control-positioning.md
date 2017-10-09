@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/ios-layouts-for-web-developers-2-control-positioning
 excerpt: "Continuing the series of posts that looks into the iOS world from the web developer perspective. In the second post we're discussing multiple approaches to setting up where and how the controls on iOS are displayed and how it differs from HTML document flow."
 title: "iOS layouts for web developers #2 - control positioning"
 modified: 2015-03-24

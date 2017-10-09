@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/integrate-slf4j-with-crashlytics
 title: "Integrate slf4j with Crashlytics"
 date: 2014-11-20 21:00:00
 tags: [android]

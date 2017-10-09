@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/purelayout-vs-snapkit
 title: PureLayout vs SnapKit - Great confrontation
 tags: iOS
 comments: true

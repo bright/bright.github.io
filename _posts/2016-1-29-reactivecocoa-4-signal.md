@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/reactivecocoa-4-signal
 title: ReactiveCocoa 4 - Signal
 tags: iOS
 comments: true

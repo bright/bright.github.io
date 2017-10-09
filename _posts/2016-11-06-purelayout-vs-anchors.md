@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/purelayout-vs-anchors
 title: PureLayout vs NSLayoutAnchor - Great confrontation
 tags: iOS
 comments: true

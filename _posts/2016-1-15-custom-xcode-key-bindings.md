@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/custom-xcode-key-bindings
 title: Custom XCode key bindings  
 tags: iOS
 comments: true

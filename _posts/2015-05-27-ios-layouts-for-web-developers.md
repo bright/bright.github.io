@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/ios-layouts-for-web-developers
 excerpt: "Recently I had an opportunity to dive into an iOS development and while I enjoy it, I miss a lot of things from the web development world. I was looking for an iOS begginer guide targeted specifically to the web developers like me, but I haven't found any. This is how the idea for this series of blog posts was born."
 title: "iOS layouts for web developers"
 date: 2015-05-27

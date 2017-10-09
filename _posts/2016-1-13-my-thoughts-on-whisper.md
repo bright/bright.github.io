@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/my-thoughts-on-whisper
 title: My thoughts on - Whisper
 tags: iOS
 comments: true

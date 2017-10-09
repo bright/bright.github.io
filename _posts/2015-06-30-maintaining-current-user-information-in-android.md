@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/maintaining-current-user-information-in-android
 title: "Maintaining current user information in Android"
 date: 2015-06-30
 tags: [android]

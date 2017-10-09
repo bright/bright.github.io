@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/frame-video-view
 excerpt: "VideoView is the most straightforward way to show video content in layout. <br />
 It took a few lines of code to setup and show for example mp4 file. <br />
 It's fine when you don't care about UX too much, but when you do, things are going to be annoying."

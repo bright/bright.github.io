@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/reactivecocoa-4-events
 title: ReactiveCocoa 4 - Events
 tags: iOS
 comments: true

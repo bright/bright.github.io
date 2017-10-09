@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/trust-specific-certificate-on-jvm
 title: Trust specific certificate on JVM-based platforms
 tags: jvm java android
 comments: true

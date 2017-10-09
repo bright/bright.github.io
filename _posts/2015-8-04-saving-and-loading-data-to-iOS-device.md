@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/saving-and-loading-data-to-iOS-device
 title: NSKeyedArchiver/Unarchiver
 tags: iOS
 comments: true

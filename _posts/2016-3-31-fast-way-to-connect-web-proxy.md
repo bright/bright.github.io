@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/fast-way-to-connect-web-proxy
 title: A fast way to connect to the web proxy
 tags: android
 comments: true

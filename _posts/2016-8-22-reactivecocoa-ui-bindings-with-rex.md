@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/reactivecocoa-ui-bindings-with-rex
 title: ReactiveCocoa UI bindings with Rex
 tags: iOS
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/quickly-access-application-documents-directory
 title: Quickly access Documents Directory for the iOS Simulator
 tags: iOS
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/using-file-resources-in-android-unit-test
 excerpt: "Since version 1.1 of Android Gradle Plugin we can run unit test on a local JVM on our development machine. In this article I'll demonstrate how to make local resources available in unit test case."
 title: "Using the file resources in Android POJO unit test"
 modified: 2015-04-13

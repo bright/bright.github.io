@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/swift-files-generator
 title: Swift files generator
 tags: iOS
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/improve-your-development-using-charles
 title: Make your development better. Use the proxy.
 author: kwysocki
 tags : [iOS, swift, proxy, web]

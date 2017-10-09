@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/xcodeforinjection-meets-command-line
 excerpt: "Meet Injection Helper, a small utility for making InjectionForXcode more friendly to use. Get rid of superfluous messages and a flood of XCode windows opened any time you patch/revert your project."
 title: InjectionForXcode meets command line
 modified: 2014-11-07

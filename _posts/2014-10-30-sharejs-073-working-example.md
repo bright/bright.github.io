@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/sharejs-073-working-example
 excerpt: "I’m experimenting with ShareJS library, which is intended to allow live concurrent editing like in Google Docs. The demo on their website seems incredibly easy, even though later on the page they are so cruel: “ShareJS is mostly working, but it’s still a bit shit.”. I wouldn’t be so harsh as I was able to have it up and running in less than few hours. But the fact is it wasn’t as easy as it seemed."
 title: ShareJS 0.7.3 working example
 modified: 2014-10-30

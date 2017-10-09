@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/3dtouch-peak-and-pop
 title: 3D Touch - Peak&Pop feature.
 author: kwysocki
 tags : [iOS, swift, 3d touch]

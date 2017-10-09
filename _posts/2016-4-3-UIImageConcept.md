@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/UIImageConcept
 title: Creating an UIImage using ImageIdentifiers 
 tags : [iOS, swift]
 comments : true

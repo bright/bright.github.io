@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/ios-simplest-star-rating-control-ever
 title: 'iOS: The simplest star rating control ever'
 date: 2015-08-13
 tags: [iOS]

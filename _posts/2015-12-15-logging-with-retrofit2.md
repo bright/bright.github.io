@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/logging-with-retrofit2
 title: Logging with Retrofit 2
 tags: android
 comments: true

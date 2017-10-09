@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/fetching-contacts-with-cncontactstore
 title: Fetching contacts with CNContactStore
 tags: iOS
 comments: true

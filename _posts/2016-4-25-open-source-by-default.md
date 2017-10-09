@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/open-source-by-default
 title: Open source by default
 tags: OpenSource
 comments: true

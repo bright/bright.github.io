@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/3dtouch-adopting-shortcut-items-to-your-app
 title: 3D Touch - Adopting shortcut items to your app.
 author: kwysocki
 tags : [iOS, swift, 3d touch]

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/heartbeat-button
 title: Heartbeat button
 tags: iOS
 comments: true

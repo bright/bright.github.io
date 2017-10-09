@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/introducing-slf4android
 title: "Introducing slf4android - a simple slf4j implementation for android"
 date: 2014-11-01
 tags: ["android"]

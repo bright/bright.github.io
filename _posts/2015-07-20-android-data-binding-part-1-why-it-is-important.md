@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/android-data-binding-part-1-why-it-is-important
 title: 'Android Data Binding Part 1: Why it is important'
 date: '2015-07-20 08:36'
 categories:

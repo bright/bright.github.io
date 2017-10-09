@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/first-pod-created
 title: My first Cocoapod created
 author: kwysocki
 tags : [iOS, swift, cocoapods]

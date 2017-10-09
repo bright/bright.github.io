@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/queueing-audio-files
 title: Queueing audio files with AVQueuePlayer
 tags: iOS
 comments: true

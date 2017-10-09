@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/anchor-child-element-click
 title: "Anchor child element click"
 date: 2015-01-25 17:00:00
 tags: [html, javascript]

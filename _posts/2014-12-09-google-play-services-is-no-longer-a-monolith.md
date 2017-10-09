@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/google-play-services-is-no-longer-a-monolith
 title: "Google Play Services is no longer a giant monolith"
 date: 2014-12-09 10:00:00
 tags: [android]

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/3-tips-for-ios-calabash-beginners
 title: 3 tips for iOS Calabash beginners
 tags: iOS
 comments: true

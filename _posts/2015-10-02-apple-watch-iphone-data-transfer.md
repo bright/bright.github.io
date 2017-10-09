@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/apple-watch-iphone-data-transfer
 title: Data transfer between Apple Watch and iPhone
 tags: iOS
 comments: true

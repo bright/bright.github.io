@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/cocoaheads-tricity-reactivecocoa
 title: "Reactive Cocoa presented on CocoaHeads Tricity"
 date: 2014-12-21
 tags: [iOS, ReactiveCocoa, CocoaHeads]

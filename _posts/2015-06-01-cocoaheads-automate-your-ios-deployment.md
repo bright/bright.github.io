@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/cocoaheads-automate-your-ios-deployment
 title: "[CocoaHeads Tricity] Automate your iOS deployment a bit"
 tags: [iOS, CocoaHeads, GYP, generate-ios, automation, TeamCity]
 comments: true

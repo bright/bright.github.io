@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/reactivecocoa-4-action
 title: ReactiveCocoa 4 - Action
 tags: iOS
 comments: true

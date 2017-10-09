@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/cocoaheads-tricity-do-not-reinvent-the-wheel
 title: "[CocoaHeads Tricity] Do not reinvent the wheel - most popular Cocoa libraries"
 tags: [iOS, CocoaHeads, CocoaPods]
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/my-thoughts-on-statefulviewcontroller
 title: My thoughts on - StatefulViewController
 tags: iOS
 comments: true

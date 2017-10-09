@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/are-your-views-dumb-enough
 title: Are your views dumb enough? — A way to run your tests without simulator
 tags: iOS
 comments: true

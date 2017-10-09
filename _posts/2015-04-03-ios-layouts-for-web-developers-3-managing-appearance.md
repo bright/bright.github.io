@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/ios-layouts-for-web-developers-3-managing-appearance
 excerpt: "In the web, we've left behind the times when the view specific definitions like fonts or colors were scattered all over through the HTML structure. Now we’re looking at the iOS layouts. How do we maintain the content vs. presentation separation in iOS?"
 title: "iOS layouts for web developers #3 - managing the appearance"
 date: 2015-04-03

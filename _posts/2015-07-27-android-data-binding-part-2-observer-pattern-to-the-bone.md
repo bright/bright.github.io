@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/android-data-binding-part-2-observer-pattern-to-the-bone
 title: 'Android Data Binding Part 2: Observer pattern to the bone'
 date: '2015-07-27 08:45'
 categories:

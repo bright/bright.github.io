@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/playing-with-material-design-toolbar-palette
 excerpt: "People around the world are waiting for Google to push Lollipop to theirs smartphones. Material Design completely changed the appearance of Android, and did it right. Material Design is really beautiful. But who says we have to wait to see Material.Theme in action? Most of features has been packed into android-support-library. Use it and build app with material for pre-lollipop devices."
 title: Playing with Material Design, Toolbar and Palette
 modified: 2014-11-11

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/simplistic-javascript-dependency-injection-es6-destructuring
 title: 'Simplistic JavaScript dependency injection with ES6 destructuring'
 date: 2015-08-24
 tags: [JavaScript, ES6]

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/reactiveswift-manage-your-memory
 title: ReactiveSwift - Manage your memory!
 tags: iOS
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://brightinventions.pl/blog/handling-different-user-types-in-android-application
 title: Handling different user types in Android application
 date: '2015-07-12 23:40'
 author: piotr
