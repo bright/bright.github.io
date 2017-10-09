@@ -74,3 +74,5 @@ doc.whenReady(function () {
 See the full Gist: [ShareJS 0.7.3 client-side code](https://gist.github.com/NOtherDev/2ea2bb111c00282e7617).
 
 *This post is cross-posted with [my personal blog](http://notherdev.blogspot.com/2014/10/sharejs-073-working-example.html).*
+
+*This post [was moved to new location](https://brightinventions.pl/blog/sharejs-073-working-example/)*
